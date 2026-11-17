@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="PetFed, India's biggest pet festival" width="100%" />
 </p>
 
-<h3 align="center">Where pets and their people come together 🐾</h3>
+<h3 align="center">Where pets and their people come together <img src="assets/icons/paw.svg" width="20" height="20" align="top" alt="" /></h3>
 
 <p align="center">
   India's biggest pet festival, now going multinational. PetFed brings pet parents,<br />
@@ -19,26 +19,29 @@
 
 <br />
 
-## 🐶 What we build
+## <img src="assets/icons/build.svg" width="22" height="22" align="top" alt="" />&nbsp; What we build
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>📱 PetFed app</h3>
+      <img src="assets/icons/app.svg" width="48" height="48" alt="" />
+      <h3>PetFed app</h3>
       <p>For iOS and Android. Event tickets, a rewards wallet, pet profiles and Free Desi adoption applications, all in one place.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>🛠️ Admin console</h3>
+      <img src="assets/icons/admin.svg" width="48" height="48" alt="" />
+      <h3>Admin console</h3>
       <p>The operations dashboard behind every festival: events, customers, payments and reporting.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>🏪 Merchant dashboard</h3>
+      <img src="assets/icons/merchant.svg" width="48" height="48" alt="" />
+      <h3>Merchant dashboard</h3>
       <p>For our stall partners. Live sales, payments and settlement, built mobile-first for the event floor.</p>
     </td>
   </tr>
 </table>
 
-## 🧰 Built with
+## <img src="assets/icons/stack.svg" width="22" height="22" align="top" alt="" />&nbsp; Built with
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -50,10 +53,10 @@
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
 </p>
 
-## 💌 Get in touch
+## <img src="assets/icons/contact.svg" width="22" height="22" align="top" alt="" />&nbsp; Get in touch
 
 Partnerships, sponsorships or tech questions: **[tech@petfedindia.com](mailto:tech@petfedindia.com)**
 
 <br />
 
-<p align="center"><sub>Made with ❤️ for pets everywhere</sub></p>
+<p align="center"><sub>Made with <img src="assets/icons/heart.svg" width="12" height="12" align="top" alt="" /> for pets everywhere</sub></p>
