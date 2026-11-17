@@ -12,8 +12,8 @@
 
 <p align="center">
   <a href="https://petfed.org"><img src="https://img.shields.io/badge/petfed.org-D7182A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://apps.apple.com/in/app/pet-fed-india/id6802296811"><img src="https://img.shields.io/badge/App_Store-111111?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store" /></a>
-  <a href="https://play.google.com/store/apps/details?id=com.petfedmobile"><img src="https://img.shields.io/badge/Google_Play-111111?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" /></a>
+  <a href="https://apps.apple.com/in/app/pet-fed-india/id6802296811"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.petfedmobile"><img src="https://img.shields.io/badge/Google_Play-01875F?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" /></a>
   <a href="https://instagram.com/petfedindia"><img src="https://img.shields.io/badge/@petfedindia-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
